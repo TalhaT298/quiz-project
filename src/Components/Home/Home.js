@@ -12,7 +12,7 @@ const Home = () => {
          <Link to="/topics">
               <button
                 type="button"
-                className="px-8 py-3 m-2 text-lg font-semibold rounded-full  text-white hover:bg-blue-600 bg-rose-900">
+                className="px-8 py-3 m-2 text-lg font-semibold rounded-full  text-white hover:bg-slate-900 bg-rose-900">
                 Start Quiz
               </button>
             </Link>
