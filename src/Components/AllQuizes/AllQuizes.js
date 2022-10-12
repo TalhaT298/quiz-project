@@ -20,7 +20,7 @@ const handleClick = (option) =>{
     if(option===correctAnswer)
     { 
 
-      const show= toast.success('Perfect!Your answer is correct.',{autoClose:600});
+      const show= toast.success('Perfect!Your answer is correct. ',{autoClose:800});
        
       if(show){ 
         
@@ -31,7 +31,7 @@ const handleClick = (option) =>{
 
     }
         else{
-        toast.error('Your answer is incorrect!',{autoClose:600})
+        toast.error('Your answer is incorrect!',{autoClose:800})
         setWrong(wrong+1);
 
     }
