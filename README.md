@@ -1,7 +1,7 @@
 ## Project Name: Quiz Contest
-gitlink: https://github.com/programming-hero-web-course2/b6-quiz-crackerz-TalhaT298
+gitl-ink: https://github.com/programming-hero-web-course2/b6-quiz-crackerz-TalhaT298
 ## Live Website link:
-
+https://magenta-mermaid-3995e9.netlify.app/
 ## What I have done
     1.First Open the file with github link
     2.Make e folder in my computer whose name quiz
