@@ -70,7 +70,7 @@ theme: "light",
                    <div className='flex justify-between'>
                      <div  className='text-center text-blue-900 p-4 font-bold text-2xl'>
                       
-                        Qusetion: {question}
+                        Qusetion:{question}
                    
                     </div>
                     <div>
